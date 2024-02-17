@@ -10,8 +10,8 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Evently",
-  description: "Evently is a platform for Event Management.",
+  title: "Occasyn",
+  description: "Occasyn is a platform for Event Management.",
   icons: {
     icon: '/assets/images/logo.svg'
   }

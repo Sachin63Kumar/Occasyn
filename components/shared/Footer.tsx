@@ -8,7 +8,7 @@ const Footer = () => {
         <Link href='/'>
           <Image src="/assets/images/logo.svg" alt="logo" width={128} height={38}/>
         </Link>
-        <p>2024 Evently. All Rights reserved.</p>
+        <p>2024 Occasyn. All Rights reserved.</p>
       </div>
     </footer>
   )
